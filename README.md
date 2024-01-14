@@ -31,7 +31,7 @@
 </div>
   
  ##
-   ✉️ REDES 🛜
+   ✉️ Contatos 🛜
    
  <div>
 
@@ -43,7 +43,8 @@
 
  ##
 
- <img>![TechnologyArtGIF](https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/9bce2eb1-4a7d-424d-a125-249418a7c3f0)
+ <img> ![PcornGIF](https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f) 
+![LateNightGamingGIF](https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac)
 <img/>
 
  <!--
