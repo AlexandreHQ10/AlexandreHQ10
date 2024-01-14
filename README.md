@@ -12,7 +12,7 @@
    
   <div style="display: inline_block"><br>
    
-   <img align="center" alt="Hq-java" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   <img align="center" alt="Hq-java" height="30" width="333" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
   <img align="center" alt="Hq-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         
@@ -36,7 +36,6 @@
   
   <div style="display: inline_block"><br>
   
-</S.O>
 
   <img align="center" alt="Hq-LinuxMint" height="30" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white">
   <img align="center" alt="Hq-ArchLinux" height="30" src= "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
@@ -75,7 +74,7 @@ CONEXÔES
 
  ##
 
- <img align="center" alt="Hq-U" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-U" height="200" width="350" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f img/>
+ <img align="center" alt="Hq-U" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-U" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f img/>
 
  <!--
 <div>
