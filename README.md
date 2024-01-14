@@ -75,9 +75,9 @@ CONEXÔES
 
  ##
 
- <img align="center" alt="Hq-U" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-U" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f img/>
+ <img align="center" alt="Hq-gif1" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-gif2" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f img/>
 
- 
+<-! 
 <div>
   <a href="https://github.com/AlexandreHQ10">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreHQ10&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
