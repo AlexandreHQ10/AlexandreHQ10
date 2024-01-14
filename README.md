@@ -1,4 +1,4 @@
-### Bem vindo! Eu sou o Alexandre Hq, navegando do Hardware ao software, fique a vontade e conecte-se...💻
+### Olá! Eu sou o Alexandre Hq, navegando do Hardware ao software, fique a vontade e conecte-se...💻
 
 - 🔭 Sempre no continuo aprendizado e em busca de oportunidades de crescimento🖱️
 - 🤖 Cursando Análise e desenvolvimento de sistemas ⌨️
