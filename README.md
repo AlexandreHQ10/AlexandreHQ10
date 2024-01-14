@@ -12,7 +12,7 @@
    
   <div style="display: inline_block"><br>
    
-   <img align="center" alt="Hq-java" height="30" width="333" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+   <img align="center" alt="Hq-java" height="30" width="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   
   <img align="center" alt="Hq-Js" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         
@@ -60,7 +60,8 @@
 </div>
 
  ##
-  <img align="center" alt="Hq-U" height="30" width="40" src= https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/286bc2e6-e747-4354-b5b9-3ec2c6bf0b79) img/>
+
+  <img align="center" alt="Hq-U" height="30" width="40" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/286bc2e6-e747-4354-b5b9-3ec2c6bf0b79) img/>
 
 CONEXÔES
    
@@ -76,7 +77,7 @@ CONEXÔES
 
  <img align="center" alt="Hq-U" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-U" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f img/>
 
- <!--
+ 
 <div>
   <a href="https://github.com/AlexandreHQ10">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreHQ10&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
