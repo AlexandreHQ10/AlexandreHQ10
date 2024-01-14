@@ -1,11 +1,16 @@
 ### Olá! Eu sou o Alexandre Hq, navegando do Hardware ao software, fique a vontade e conecte-se...💻
 <p align="center">
 
-- 🔭 Sempre no continuo aprendizado e em busca de oportunidades de crescimento🖱️
-- 🤖 Cursando Análise e desenvolvimento de sistemas ⌨️
-- 🎮 Cursando Metaverso voltado para games 📺
-- 🪛 Suporte técnico certificado ⚙️
-- 📖 Pronome: ele/dele
+- <img align="center" alt="Hq-gif2" height="20" width="30" src=https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-foguete-9.gif img/>  Sempre no continuo aprendizado e em busca de oportunidades de crescimento.
+
+-  <img align="center" alt="Hq-gif2" height="20" width="30" src=https://cdn.dribbble.com/users/660830/screenshots/5641330/ezgif.com-video-to-gif__2_.gif img/>
+   Cursando Análise e desenvolvimento de sistemas.
+   
+-  <img align="center" alt="Hq-gif2" height="20" width="30" src=https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjI4eWp3bjNtMmtrNHp1ZWNsZjRhbDJvaTNwMnY2Zm42cDJwc2Y4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NDqgfaIchB1ra/giphy.gif img/>  Cursando Metaverso voltado para games. 
+
+-  <img align="center" alt="Hq-gif2" height="20" width="30" src=https://www.imagensanimadas.com/data/media/273/chave-imagem-animada-0032.gif img/>   Suporte técnico certificado. 
+
+-  <img align="center" alt="Hq-gif2" height="20" width="30" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjVlaWhidzgzN215NnRnNWtsN3YwcHFydmM3cGVoN3BpNmZoaGlqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7NOOSwLqNqyzTJIDIh/giphy.gif img/>  Pronome: ele/dele.
 
  ##
  
