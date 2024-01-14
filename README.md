@@ -8,7 +8,8 @@
 - 📖 Pronome: ele/dele
 
  ##
-   🧠 Skills ⚙️
+ 
+🧠 Skills ⚙️
    
   <div style="display: inline_block"><br>
    
@@ -60,15 +61,13 @@
 </div>
 
  ##
-
-  <img align="center" alt="Hq-U" height="30" width="40" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/286bc2e6-e747-4354-b5b9-3ec2c6bf0b79) img/>
-
-CONEXÔES
+ 
+  <img align="center" alt="Hq-gif2" height="20" width="30" src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemw1ajgxdXJ3b2F1NTdlamgwbGdxcGpwdXFmcXQ4bHZzcHozZnNtNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YqhHDzKEcEXTSpXlK9/giphy.gif img/> CONEXÔES <img align="center" alt="Hq-gif2" height="20" width="30" src=https://gifs.eco.br/wp-content/uploads/2021/09/imagens-e-gifs-de-vire-o-celular-25.gif img/>
    
  <div>
 
  <a href="https://www.linkedin.com/in/alexandre-hq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/channels/@AlexandreHq9106" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+   <a href="https://discord.com/channels/@AlexandreHq9106" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  <a href = "mailto:alexandrehenriquehq10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
   
 </div>
@@ -77,7 +76,7 @@ CONEXÔES
 
  <img align="center" alt="Hq-gif1" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/d54262bc-9557-4774-b74a-8e8d9d3860ac img/> <img align="center" alt="Hq-gif2" height="200" width="333" src=https://github.com/AlexandreHQ10/AlexandreHQ10/assets/88166141/fdad3f12-3f7c-4d98-aeba-b5b0f0e70e2f img/>
 
-<-! 
+<!--
 <div>
   <a href="https://github.com/AlexandreHQ10">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AlexandreHQ10&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
